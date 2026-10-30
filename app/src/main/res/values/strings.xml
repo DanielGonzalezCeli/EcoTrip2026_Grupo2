@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EcoTrip 2026</string>
+
+    <!-- Formulario -->
+    <string name="titulo_formulario">Planifica tu viaje</string>
+    <string name="label_nombre">Nombre del viajero</string>
+    <string name="label_transporte">Transporte ecológico</string>
+    <string name="transporte_tren">Tren</string>
+    <string name="transporte_bicicleta">Bicicleta</string>
+    <string name="transporte_electrico">Eléctrico</string>
+    <string name="label_baja_huella">Solo rutas de baja huella de carbono</string>
+    <string name="label_destino">Destino</string>
+    <string name="label_dias">Duración (días)</string>
+    <string name="label_grupal">Viaje grupal</string>
+    <string name="titulo_seccion_viajero">Datos del viajero</string>
+    <string name="titulo_seccion_viaje">Detalles del viaje</string>
+    <string name="error_nombre">Escribe tu nombre (solo letras, mínimo 2)</string>
+    <string name="error_destino">Escribe un destino válido (solo letras, mínimo 2)</string>
+    <string name="hint_dias">Entre 1 y 365 días</string>
+    <string name="contador">%1$d/%2$d</string>
+    <string name="error_dias">Ingresa un número de días entre 1 y 365</string>
+    <string name="fab_planificar">Planificar ruta</string>
+
+    <!-- Resumen -->
+    <string name="titulo_resumen">Resumen de ruta</string>
+    <string name="cd_volver">Volver al formulario</string>
+    <string name="cd_nueva_ruta">Planificar una nueva ruta</string>
+    <string name="fab_nueva_ruta">Nueva ruta</string>
+    <string name="resumen_subtitulo">%1$d días · %2$s</string>
+    <string name="viajero_anonimo">Viajero</string>
+    <string name="resumen_viajero">Viajero</string>
+    <string name="resumen_transporte">Transporte</string>
+    <string name="resumen_destino">Destino</string>
+    <string name="resumen_duracion">Duración</string>
+    <string name="resumen_tipo">Tipo de viaje</string>
+    <string name="resumen_huella">Ruta de baja huella</string>
+    <string name="unidad_dias">días</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="viaje_grupal">Grupal</string>
+    <string name="viaje_individual">Individual</string>
+    <string name="mensaje_eco">Tu ruta prioriza la menor huella de carbono posible. ¡Gracias por viajar sostenible!</string>
+</resources>
